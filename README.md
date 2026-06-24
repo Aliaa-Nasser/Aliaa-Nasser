@@ -1,34 +1,91 @@
-# 🔥 Hey there, I'm Aliaa Nasser Hussein 👋
+# 👋 Hi, I'm Aliaa Nasser
 
-### 📊 Junior Data Analyst | 🚀 Aspiring Data Engineer & Data Scientist
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-%E2%9A%A1%20Analyzing%20%26%20Optimizing-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Data%20Pipelines%20%26%20BI-007acc?style=flat-square" />
-</p>
+### 📊 Junior Data Analyst | 🎓 Computer Science Student | 🚀 Future Data Scientist & Data Engineer
+
+> Turning data into insights, insights into decisions, and decisions into impact.
 
 ---
 
-## 🌌 Executive Summary
+## 🌟 About Me
 
-<table align="right">
-  <tr>
-    <td>
-      <!-- شاشة التيرمينال الخضراء المميزة والمتحركة -->
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF66&background=1A1A1A&width=320&height=140&lines=(function%20%7B%0D%A1++explore_data()%3B%0D%A1++solve_problems()%3B%0D%A1++optimize_logic()%3B%0D%A1++repeat_loop()%3B%0D%A1%7D)()%" alt="Terminal" />
-    </td>
-  </tr>
-</table>
-
-I am a highly organized **Computer Science and Statistics** student and an aspiring Data Scientist and Data Engineer. I possess a strong analytical background and a dedication to transforming raw, unstructured datasets into clean, optimized, and actionable business insights. 
-
-* **🧠 Foundational Philosophy:** I strictly prioritize building a rock-solid technical foundation by manually implementing data structures and writing optimized algorithms from scratch rather than relying on automated AI shortcuts.
-* **⏳ Key Traits:** Driven by high personal standards, profound respect for time, strict organization, and a perfectionist approach to every project.
+- 📊 Junior Data Analyst passionate about data and technology
+- 🎓 Computer Science Student
+- 🤖 Interested in Data Science, Data Engineering, and Artificial Intelligence
+- 🐍 Experienced in Python, SQL, Database Design, and Data Analysis
+- 🧩 Strong Problem Solver
+- 👩‍🏫 Mentor and Programming Instructor
+- 🚀 Always learning and exploring new technologies
 
 ---
 
-## 🛠️ Expertise & Technical Matrix
+## 💻 Tech Stack
 
-### 👑 Core & Soft Skills
-```text
-Leadership & Management ████████████████████████████████ 99%
-Organization & Time     ████████████████████████████████ 99%
+| Category | Skills |
+|----------|----------|
+| 👨‍💻 Programming | Python, SQL, C++, HTML, CSS |
+| 📊 Data Analytics | Data Analysis, Data Cleaning, EDA, Data Visualization |
+| 🗄️ Database | Database Design, ERD, SQL Queries, Normalization |
+| 🧩 Soft Skills | Problem Solving, Leadership, Communication, Teamwork |
+
+---
+
+## 🚀 Featured Projects
+
+### 📚 Library Management Database System
+- Designed and implemented a complete database system.
+- Created ERD diagrams and normalized tables.
+- Developed SQL queries for managing library operations.
+
+### 📊 Sales Data Analysis Project
+- Analyzed sales datasets.
+- Cleaned and transformed raw data.
+- Created reports and business insights.
+
+### 🐍 Python Projects
+- Built multiple Python applications.
+- Practiced automation and problem-solving techniques.
+
+### 🧩 Problem Solving Practice
+- Solved algorithmic challenges.
+- Improved logical and analytical thinking skills.
+
+---
+
+## 🏆 Certifications
+
+- 📜 Data Analysis – MASAAR
+- 📜 Data Analytics Using Python – Manara
+- 📜 Introduction to Business Intelligence and Data Analysis – EYouth
+- 📜 Programming with Python – NTI
+- 📜 Leadership and Mentoring – MASAAR
+- 📜 Arrays and Loops – CodeSpark
+- 📜 The C++ Learning Guide – Udemy
+- 📜 Time and Stress Management – Edraak
+- 📜 How to be HR – Ahmed Akel
+
+---
+
+## 🎯 Current Learning Journey
+
+- 🌱 Data Science
+- 🌱 Data Engineering
+- 🌱 Machine Learning
+- 🌱 Artificial Intelligence
+- 🌱 Advanced SQL
+- 🌱 Advanced Python
+
+---
+
+
+
+## 📫 Connect With Me
+
+💼 LinkedIn:www.linkedin.com/in/aliaanasser
+
+💻 GitHub: (https://github.com/Aliaa-Nasser)
+
+📧 Email: aliaanasser972@gmali.com
+
+---
+
+⭐ *Data Analyst in progress, Data Scientist in the making.*

@@ -1,67 +1,72 @@
-# ⚡ Aliaa Nasser Hussein
-### 🚀 Aspiring Data Scientist & Data Engineer
+# <img src="https://media.giphy.com/media/hvXCLtE8GfE6w9yOec/giphy.gif" width="30px"> Hi, I'm Aliaa Nasser Hussein
+
+### ✨ Aspiring Data Scientist & Data Engineer | CS & Statistics Student
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintained" />
-  <img src="https://img.shields.io/badge/Data__Analysis-Expert-blue" alt="Data Analysis" />
-  <img src="https://img.shields.io/badge/Problem__Solving-C%2B%2B-orange" alt="Problem Solving" />
+  <img src="https://img.shields.io/badge/Status-Building_The_Future-blueviolet?style=flat-square&logo=gitbook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Data_Science_%26_Engineering-007acc?style=flat-square" />
+  <img src="https://img.shields.io/badge/Problem_Solving-Active-success?style=flat-square&logo=codeforces&logoColor=white" />
 </p>
 
 ---
 
 ## 🌌 About Me
-A **Computer Science and Statistics** student with a solid analytical background. I specialize in turning raw data into meaningful insights and building robust software solutions. I have a strong passion for data modeling, business intelligence, and algorithmic problem-solving.
+A meticulous and organized **Computer Science and Statistics** student with a deep analytical mindset. I specialize in extracting value from raw data and implementing high-performance code from scratch. I have a strong passion for data modeling, advanced analytics, and competitive programming.
 
-* **🧠 Philosophy:** I believe in building a strong foundational knowledge, manually exploring data structures, and writing optimized code from scratch.
-* **⏳ Key Traits:** High commitment to strict organization, productivity, and deep respect for time and deadlines.
+* **🧠 Perfectionist Mindset:** I highly respect time, strict organization, and building a flawless technical foundation.
+* **🎯 Career Goal:** Bridging the gap between robust Software Engineering and scalable Data Solutions.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Technical Toolkit
 
-### 📊 Data Science & Analytics
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power Bi](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+### 📊 Data Analytics & Science
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/MS_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" alt="Power BI" />
+</p>
 
-### 💻 Software Engineering & Databases
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+### 💻 Software & Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
 
 ---
 
 ## 📁 Featured Projects
 
-### 🔹 Sales Performance Dashboard
-* **Description:** A comprehensive business intelligence solution featuring deep data modeling.
-* **Tech:** Excel, Power Pivot, Power BI.
+### 📊 Sales Performance Dashboard
+* **Overview:** Advanced data modeling and interactive business intelligence dashboard.
+* **Stack:** `Excel` • `Power Pivot` • `Power BI`
 
-### 🔹 Library Management System
-* **Description:** A complete, secure database application with dual-privilege modules for administrators and students.
-* **Tech:** MySQL, PHP, Visual Studio.
-
----
-
-## 🏅 Certifications & Experience
-* **National Telecommunication Institute (NTI):** Advanced Python, Pandas, and Object-Oriented Programming (OOP) Internship.
-* **Data Analysis Certification:** Specialized track focusing on BI dashboards and advanced modeling.
+### 📚 Library Management System
+* **Overview:** A secure database application with custom multi-user dashboards (Admin/Student).
+* **Stack:** `MySQL` • `PHP` • `Visual Studio`
 
 ---
 
-## 📈 GitHub Analytics
+## 🏅 Certifications & Timeline
+* 🎓 **NTI Internship:** Intensive Advanced Python, Pandas, and Object-Oriented Programming.
+* 📜 **Data Analysis Certification:** Specialized track in data modeling and business intelligence.
+
+---
+
+## 📈 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aliaa-Nasser&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="Aliaa's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliaa-Nasser&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aliaa-Nasser&show_icons=true&theme=calm&hide_border=true&include_all_commits=true" alt="Aliaa's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliaa-Nasser&layout=compact&theme=calm&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
-## 📬 Connect with Me
+## 📬 Connect & Collaborate
 <p align="left">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
